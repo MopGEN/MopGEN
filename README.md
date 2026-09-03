@@ -1,5 +1,4 @@
 <h1 align="center">¡Hola! Soy Victor Ortiz </h1> <p align="center"> <a href="https://www.linkedin.com/in/victor-ortiz-1b9a44313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pomv06@protonmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white" /></a> </p>
-Sobre mí
 
 Soy estudiante de 6to semestre de Ingeniería en Ciencias Computacionales en la Universidad de Guadalajara, buscando especializarme en datos e inteligencia artificial.
 
