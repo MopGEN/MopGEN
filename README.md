@@ -1,9 +1,9 @@
-<h1 align="center">¡Hola! Soy Victor Ortiz </h1> <p align="center"> <a href="https://www.linkedin.com/in/victor-ortiz-1b9a44313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pomv06@protonmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white" /></a> </p>
+<p align="center"> <img src="https://i.pinimg.com/originals/4b/35/c7/4b35c7f768fadc4c603f5b3e16629d74.gif" width="100%" /> </p> <h1 align="center">Victor Ortiz</h1> <p align="center"> <a href="https://www.linkedin.com/in/victor-ortiz-1b9a44313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pomv06@protonmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white" /></a> </p>
+About me
 
-Soy estudiante de 6to semestre de Ingeniería en Ciencias Computacionales en la Universidad de Guadalajara, buscando especializarme en datos e inteligencia artificial.
+I'm Victor Ortiz, a Computer Science Engineering student specializing in data science and artificial intelligence. Along the way I've also built a solid foundation in software development and web programming, and I'm currently expanding into Spring Boot and cloud infrastructure while working toward the AWS Certified Cloud Practitioner certification.
 
-🔭 Actualmente en busca de un internship en desarrollo/data.
-🌱 Aprendiendo Spring Boot y microservicios, además de preparando la certificación AWS Certified Cloud Practitioner.
-📫 Puedes contactarme por LinkedIn o correo (arriba).
+I'm currently open to internship opportunities in software development or data.
+
 Tech Stack
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,java,cpp,nodejs,spring,docker,mysql,mariadb,git,github" /> </p>
+<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
