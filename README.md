@@ -1,7 +1,7 @@
 <p align="center"> <img src="https://i.pinimg.com/originals/4b/35/c7/4b35c7f768fadc4c603f5b3e16629d74.gif" width="100%" /> </p> <h1 align="center">Victor Ortiz</h1> <p align="center"> <a href="https://www.linkedin.com/in/victor-ortiz-1b9a44313"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:pomv06@protonmail.com"><img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=white" /></a> </p>
 About me
 
-I'm Victor Ortiz, a Computer Science Engineering student specializing in data science and artificial intelligence. Along the way I've also built a solid foundation in software development and web programming, and I'm currently expanding into Spring Boot and cloud infrastructure while working toward the AWS Certified Cloud Practitioner certification.
+I'm Victor Ortiz, a Computer Science Engineering student specializing in data science and artificial intelligence. Along the way I've also built a solid foundation in software development and web programming.
 
 I'm currently open to internship opportunities in software development or data.
 
